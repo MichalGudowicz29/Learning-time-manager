@@ -1,0 +1,27 @@
+# Pliki systemowe macOS
+.DS_Store
+
+# Pliki środowiska Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Wirtualne środowiska
+venv/
+env/
+.env
+
+# Pliki IDE
+.idea/
+.vscode/
+
+# Pliki dystrybucyjne
+dist/
+build/
+*.egg-info/
+
+# Pliki logów
+*.log
+
+# Pliki tymczasowe
+*.tmp
